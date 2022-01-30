@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Himal222
-- 👀 I’m interested in ...web developing\ android development
+- 👀 I’m interested in ...web developing
 - 🌱 I’m currently learning ... frontend development
-- 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...just email me:- bhandarihimal222@gmail.com
 
 <!---
